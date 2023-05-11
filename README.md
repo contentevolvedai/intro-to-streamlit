@@ -17,6 +17,10 @@ pip install -r .\requirements.txt
 streamlit run .\streamlit_app.py
 ```
 
+## Demo
+
+[Here is a demo](https://contentevolvedai-intro-to-streamlit-streamlit-app-ub2w13.streamlit.app/) of the final product. Please note, it is heavily limited.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
